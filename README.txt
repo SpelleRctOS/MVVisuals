@@ -13,7 +13,9 @@ After installing you need to run MVVisuals.bat
 And last thing to do, write this string - python MVVisuals.py
 
 MOBILE PHONE:
-To install the game to your phone just simply instal Python3 programm from your mobile phone market.
+If you download on your moblie phone, you need to scroll down to the bottom of the page and tap on the 'Desktop view'.
+Then on the right side will be green button 'Clone or Download', tap on it and download .ZIP file. 
+After downloading unpack files to the folder. Then install Python3 program from your mobile phone market.
 When it is installed, run Python3 and open there MVVisuals.py file
 
 
